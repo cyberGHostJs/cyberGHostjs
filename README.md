@@ -8,6 +8,7 @@ as you already know, I am Davidson, a Frontend developer.  I currently work as a
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently a frontend mentor at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering).
+- I in set of the first Altschool Africa Alumni😌
 - 🌱 I’m currently job haunting.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend development (Internship or Junior level).
